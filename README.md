@@ -1,1 +1,1 @@
-# BankingApplication
+# FinNovaBank
